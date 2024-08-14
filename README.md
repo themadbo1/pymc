@@ -9,4 +9,4 @@ dependancies:
 curl
 
 Useage: 
-python main.py {your computers local ip address}        
+python main.py         
