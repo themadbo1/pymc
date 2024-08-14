@@ -3,4 +3,4 @@ their server in the future.  After the first start of the server you can interac
 
 
 Useage: 
-python main.py <your computers local ip address>       
+python main.py {your computers local ip address}        
