@@ -67,6 +67,5 @@ def main():
 
 
 if __name__ == '__main__':
-    subprocess.run("curl https://raw.githubusercontent.com/themadbo1/pymc/main/versions.json -o versions.json", shell=True)
     main()
     
